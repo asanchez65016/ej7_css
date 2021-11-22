@@ -1,0 +1,27 @@
+p.contacto {
+	text-align: center;
+  	position: fixed;
+  	bottom: 0;
+  	right: 0;
+  	width: 90px;
+  	border: 2px solid lightblue ;
+  	background-color: #A4C3E4;
+  	color: white;
+  	cursor: pointer;
+  }
+h1 {
+	text-align: center;
+	background-color: lightblue;
+	color: white;
+	border: 2px solid #439EFF;
+}
+img {
+	width: 200px;
+	position: relative;
+	
+	left: 285px;
+}
+p.text{
+	position: relative;
+	top
+}
